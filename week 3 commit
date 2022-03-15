@@ -1,0 +1,138 @@
+package com.YuanXin.week3.demo;
+
+import javax.servlet.*;
+import javax.servlet.http.*;
+import java.io.IOException;
+
+
+public class LifeCycleServlet extends HttpServlet {
+    public LifeCycleServlet() {
+        System.out.println("i am constructor-->LifeCycleServlet()");
+    }
+
+    @Override
+    public void init() {
+        System.out.println("i am init");
+    }
+
+    @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        System.out.println("i am in service() -->do get()");
+    }
+
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+    }
+    public void destory(){
+        System.out.println("i am in destory()");
+    }
+}
+
+
+package com.YuanXin.week3.demo;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class RegisterServlet extends HttpServlet {
+    @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+    }
+
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        String username=request.getParameter("username");
+        String password=request.getParameter("password");
+        String Email=request.getParameter("Email");
+        String sex=request.getParameter("sex");
+        String birthdate=request.getParameter("birthdate");
+
+        PrintWriter printWriter=response.getWriter();
+        printWriter.println("<br>username :"+username);
+        printWriter.println("<br> password :"+password);
+        printWriter.println("<br>Email :"+Email);
+        printWriter.println("<br>sex :"+sex);
+        printWriter.println("<br>birthdate :"+birthdate);
+        printWriter.close();
+    }
+}
+
+
+<%--
+  Created by IntelliJ IDEA.
+  User: 19644
+  Date: 2022/3/13
+  Time: 23:07
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>Hello</title>
+    <style>
+        table {
+            margin: auto;
+            background-color: #fff;
+        }
+        tr {
+            height: 50px;
+        }
+        td {
+            text-align: center;
+            height: 50px;
+            width: 500px;
+        }
+        span {
+            font-size: larger;
+            font-family: '宋体', Courier, monospace;
+        }
+        div {
+            float: none;
+            margin-left: auto;
+        }
+    </style>
+</head>
+<body>
+<form method="post" action="/register">
+    <h1 style="text-align: center; font-family: '宋体', Courier, monospace;">New User Registration</h1>
+    <table border="1" cellpaddSing = 0; cellspacing = 0;>
+        <tr>
+            <td>
+                <input style="width: 100%; height: 100%;" type="text" name="name" value="Username">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input style="width: 100%; height: 100%;" type="text" name="name" value="Password">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input style="width: 100%; height: 100%;" type="text" name="name" value="Email">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span>Gender</span>
+                <input type="radio" name="sex" value="Male" checked>Male
+                <input type="radio" name="sex" value="Female" >Female
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input style="width: 100%; height: 100%;" type="text" name="name" value="Date of Birth(yyyy-mm-dd)">
+            </td>
+        </tr>
+    </table>
+    <div align= "center">
+        <input  type="submit" value="Register" style="color: rgb(63, 63, 63);">
+    </div>
+</form>
+</body>
+</html>
