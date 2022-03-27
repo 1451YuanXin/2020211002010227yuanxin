@@ -4,27 +4,29 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import java.io.IOException;
 
-
 public class LifeCycleServlet extends HttpServlet {
-    public LifeCycleServlet() {
-        System.out.println("i am constructor-->LifeCycleServlet()");
+
+    public LifeCycleServlet(){
+        System.out.println("I am in constructor");
     }
 
     @Override
-    public void init() {
-        System.out.println("i am init");
+    public void init(){
+        System.out.println("I am in init");
     }
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println("i am in service() -->do get()");
+        System.out.println("I am in service");
     }
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
     }
-    public void destory(){
-        System.out.println("i am in destory()");
+
+    @Override
+    public void destroy(){
+        System.out.println("I am in destroy");
     }
 }

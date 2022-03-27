@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d23f61eb-a367-465f-b800-adc97024657f" name="变更" comment="commit week 5">
-      <change afterPath="$PROJECT_DIR$/javaweb/javaweb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 3 commit" beforeDir="false" />
+    <list default="true" id="d23f61eb-a367-465f-b800-adc97024657f" name="变更" comment="commit week 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaweb/src/com/YuanXin/week3/LifeCycleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb/src/com/YuanXin/week3/LifeCycleServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaweb/src/com/YuanXin/week3/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb/src/com/YuanXin/week3/RegisterServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +28,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaweb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaweb/src/com/YuanXin/week3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\a大二\yuanxin\javaweb\src\com\YuanXin\week3" />
       <recent name="D:\a大二\yuanxin" />
     </key>
   </component>
@@ -50,6 +50,7 @@
       <workItem from="1648389943704" duration="9000" />
       <workItem from="1648390923899" duration="13000" />
       <workItem from="1648390993175" duration="144000" />
+      <workItem from="1648391297166" duration="435000" />
     </task>
     <task id="LOCAL-00001" summary="commit week 5">
       <created>1648367062684</created>
@@ -58,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648367062685</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit week 4">
+      <created>1648391363315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648391363315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit week 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit week 5" />
+    <MESSAGE value="commit week 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit week 4" />
   </component>
 </project>
