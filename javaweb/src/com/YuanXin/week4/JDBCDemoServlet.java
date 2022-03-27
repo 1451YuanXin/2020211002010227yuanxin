@@ -1,12 +1,12 @@
-package com.Yuanxin.week4;
+package com.YuanXin.week4;
 
-import javax.servlet.*;
-import javax.servlet.http.*;
-import javax.servlet.annotation.*;
-import java.io.IOException;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+        import javax.servlet.*;
+        import javax.servlet.http.*;
+        import javax.servlet.annotation.*;
+        import java.io.IOException;
+        import java.sql.Connection;
+        import java.sql.DriverManager;
+        import java.sql.SQLException;
 
 @WebServlet(name = "JDBCDemoServlet", value = "/JDBCDemoServlet")
 public class JDBCDemoServlet extends HttpServlet {
