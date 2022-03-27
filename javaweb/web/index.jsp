@@ -11,9 +11,6 @@
     <span></span>
     <span></span>
     <span></span>
-    <span></span>
-    <span></span>
-    <span></span>
-    <span></span>
+
 </form>
 <%@include file="footer.jsp"%>

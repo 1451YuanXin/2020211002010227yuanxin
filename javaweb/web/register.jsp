@@ -79,6 +79,5 @@
             <input type="radio" name="gender" value="female"/>Female<br/>
     Date of birth:<input type="text" name="birthday"/><br/>
     <input type="submit" name="Register"/><br/>
-
 </form>
 <%@include file="footer.jsp"%>
