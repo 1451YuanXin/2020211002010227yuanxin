@@ -9,56 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acd9553-6b9d-4691-b958-2e1f6883875d" name="变更" comment="week 6 commit">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/2020211002010227YuanXin_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/2020211002010227YuanXin_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/dao/IUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/week6/SearchServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/MYJSP.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/updateUesr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/userinfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/count.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/userinfo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/javaweb_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/javaweb_war_exploded.xml" afterDir="false" />
+    <list default="true" id="1acd9553-6b9d-4691-b958-2e1f6883875d" name="变更" comment="week 7 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/week2/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/week2/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/week3/LifeCycleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/week3/LifeCycleServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/week3/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/week3/RegisterServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/week4/ConfigDemoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/week4/ConfigDemoServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/week4/JDBCDemoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/week4/JDBCDemoServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/week4/database.propertise" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/week4/databaseSetting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/week5/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/week5/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week2/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week2/HelloServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week3/LifeCycleServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week3/LifeCycleServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week3/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week3/RegisterServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week4/ConfigDemoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week4/ConfigDemoServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week4/JDBCDemoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week4/JDBCDemoServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week4/database.propertise" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week4/databaseSetting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week6/RedirectServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week6/RedirectServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week2/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week2/HelloServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week3/LifeCycleServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week3/LifeCycleServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week3/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week3/RegisterServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week4/ConfigDemoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week4/ConfigDemoServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week4/JDBCDemoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week4/JDBCDemoServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week4/database.propertise" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week4/databaseSetting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week6/RedirectServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week6/RedirectServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/userList.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +48,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -991,6 +944,7 @@
     <MESSAGE value="week 3 commit" />
     <MESSAGE value="week 4 commit" />
     <MESSAGE value="week 6 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 6 commit" />
+    <MESSAGE value="week 7 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 7 commit" />
   </component>
 </project>
