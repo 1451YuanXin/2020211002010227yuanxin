@@ -42,9 +42,6 @@ public class LoginServlet extends HttpServlet {
                 // Cookie c=new Cookie(name:"sessionID"),value:""+user.getID());
                 //c.setMaxAge(10*60);
                 //response.addCookie(c);
-
-
-
                 String rememberMe=request.getParameter("remember");
                 if (rememberMe!=null &&rememberMe.equals("1"))
                 {

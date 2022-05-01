@@ -3,8 +3,6 @@
 <%@page  contentType="text/html;charset=UTF-8" language="java"%>
 
 <h2>User Info</h2>
-
-
 <%--<%Cookie []allCookies=request.getCookies();--%>
 <%--for (Cookie c:allCookies){--%>
 <%--    out.println("<br/>"+c.getName()+"---"+c.getValue());--%>
