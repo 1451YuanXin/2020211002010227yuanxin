@@ -1,4 +1,3 @@
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@include file="../header.jsp"%>
 
@@ -31,8 +30,14 @@
 										<option >-- Category --</option>
 											<!-- loop_start -->
 											
-										<option value=""></option>
-										
+										<option value="1">FASHION</option>
+										<option value="2">HOUSEHOLDS</option>
+										<option value="3">INTERIORS</option>
+										<option value="4">CLOTHING</option>
+										<option value="5">BAGS</option>
+										<option value="6">SHOES</option>
+										<option value="7">BOOKS</option>
+
 										<!-- loop_end -->
 										
 										</select>
