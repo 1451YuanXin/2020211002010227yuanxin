@@ -71,4 +71,9 @@ public class ProductDao implements  IProductDao{
     public List<Product> getPicture(Integer productId, Connection con) throws SQLException {
         return null;
     }
+
+    @Override
+    public int save(Product product, InputStream inputStream, Connection con) {
+        return 0;
+    }
 }

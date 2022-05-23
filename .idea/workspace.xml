@@ -10,22 +10,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ebfb575-e570-490a-9fec-c1559c0028d9" name="变更" comment="week 11 commit">
-      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/controller/AddProductServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/controller/ProductListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/controller/UpdateUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/dao/IProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/dao/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/model/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/taglibs-standard-jstlel-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/YXFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/lab2/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/lab2/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/lab2/validate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/lab2/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_10_2_0_jre17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_10_2_0_jre17.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/admin/addProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/admin/addProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.annotation.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.ejb.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.jms.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.persistence.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.resource.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.transaction.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/controller/AddProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/controller/AddProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week3/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week3/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week5/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week5/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week3/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week3/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week5/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week5/LoginServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +94,6 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedIndex" value="3" />
     <option name="showToolbar" value="false" />
   </component>
   <component name="ProjectId" id="25zmRCEjeuUICgJakiO0nGmg0Gv" />
@@ -100,16 +116,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/demo/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/YuanXin/dao" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/com/microsoft/sqlserver/mssql-jdbc/10.2.0.jre17/mssql-jdbc-10.2.0.jre17.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="库" />
     <property name="project.structure.proportion" value="0.14430015" />
-    <property name="project.structure.side.proportion" value="0.16891891" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="project.structure.side.proportion" value="0.34514287" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/web/WEB-INF/views/admin/addProduct" />
   </component>
   <component name="Push.Settings">
@@ -117,11 +133,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\a大二\javaweb\src\com\YuanXin\dao" />
-      <recent name="D:\a大二\javaweb\src\com\YuanXin\model" />
       <recent name="D:\a大二\javaweb\web\WEB-INF" />
-      <recent name="D:\a大二\javaweb\web\WEB-INF\views" />
+      <recent name="D:\a大二\javaweb\lib" />
       <recent name="D:\a大二\javaweb\web" />
+      <recent name="D:\a大二\javaweb\src" />
+      <recent name="D:\a大二\javaweb\src\com\YuanXin\dao" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\a大二\javaweb\src\com\YuanXin\week2" />
@@ -136,26 +152,7 @@
   <component name="RunDashboard">
     <option name="openRunningConfigInTab" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.D:/a大二/javaweb">
-    <configuration name="D:/a大二/javaweb" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 9.0.59">
     <configuration name="未命名" type="GroovyScriptRunConfiguration" factoryName="Groovy" nameIsGenerated="true">
       <module name="javaweb" />
       <setting name="path" value="" />
@@ -166,6 +163,10 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="javax.transaction.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/javax.transaction.jar" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
@@ -329,6 +330,9 @@
         <option name="BuildArtifacts" enabled="true">
           <artifact name="javaweb:war exploded" />
         </option>
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="" />
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="tomcat" run_configuration_type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+        <option name="LaunchBrowser.Before.Run" />
       </method>
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -435,93 +439,6 @@
         <option name="BuildArtifacts" enabled="true">
           <artifact name="javaweb:ear exploded" />
           <artifact name="javaweb:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="register.jsp (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 10.0.17" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/register.jsp" />
-      <deployment>
-        <artifact name="javaweb:ear exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="4c6077c1-f03b-49bf-9c6a-c2ad7f349a17" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="55606" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="javaweb:ear exploded" />
         </option>
       </method>
     </configuration>
@@ -709,19 +626,148 @@
         <option name="LaunchBrowser.Before.Run" />
       </method>
     </configuration>
+    <configuration name="validate.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.59" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/web/lab2/validate.jsp" />
+      <deployment>
+        <artifact name="2020211002010227YuanXin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/2020211002010227YuanXin_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ba932171-3eaa-451e-999b-42e0d8a5afbb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="2020211002010227YuanXin:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="welcome.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.59" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/web/lab2/welcome.jsp" />
+      <deployment>
+        <artifact name="2020211002010227YuanXin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/2020211002010227YuanXin_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="060f0c5c-72b7-458f-a555-c2a6032dce39" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55170" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="2020211002010227YuanXin:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Gradle.D:/a大二/javaweb" />
       <item itemvalue="Groovy.未命名" />
+      <item itemvalue="JAR 应用程序.javax.transaction.jar" />
       <item itemvalue="Tomcat 服务器.Tomcat 9.0.59" />
       <item itemvalue="Tomcat 服务器.tomcat" />
       <item itemvalue="Tomcat 服务器.index.jsp" />
       <item itemvalue="Tomcat 服务器.register.jsp" />
-      <item itemvalue="Tomcat 服务器.register.jsp (1)" />
+      <item itemvalue="Tomcat 服务器.welcome.jsp" />
+      <item itemvalue="Tomcat 服务器.validate.jsp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.D:/a大二/javaweb" />
-        <item itemvalue="Tomcat 服务器.register.jsp (1)" />
+        <item itemvalue="Tomcat 服务器.validate.jsp" />
+        <item itemvalue="Tomcat 服务器.welcome.jsp" />
+        <item itemvalue="Tomcat 服务器.welcome.jsp" />
+        <item itemvalue="JAR 应用程序.javax.transaction.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -780,7 +826,10 @@
       <workItem from="1650030441610" duration="19000" />
       <workItem from="1651368736987" duration="2312000" />
       <workItem from="1651371092034" duration="1577000" />
-      <workItem from="1651983598208" duration="1526000" />
+      <workItem from="1651983598208" duration="1884000" />
+      <workItem from="1652666945251" duration="39000" />
+      <workItem from="1653264449635" duration="2373000" />
+      <workItem from="1653266862820" duration="2593000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 commit">
       <created>1646631313487</created>
@@ -957,7 +1006,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651372513628</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="week 11 commit">
+      <created>1651985146986</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1651985146986</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
