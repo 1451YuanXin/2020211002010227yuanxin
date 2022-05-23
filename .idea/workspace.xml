@@ -9,40 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ebfb575-e570-490a-9fec-c1559c0028d9" name="变更" comment="week 11 commit">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.7/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/taglibs-standard-jstlel-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/LoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/YXFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/lab2/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/lab2/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/lab2/validate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/lab2/welcome.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_10_2_0_jre17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_10_2_0_jre17.xml" afterDir="false" />
+    <list default="true" id="9ebfb575-e570-490a-9fec-c1559c0028d9" name="变更" comment="lab2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.annotation.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.ejb.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.jms.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.persistence.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.resource.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.transaction.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/controller/AddProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/controller/AddProductServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/dao/ProductDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week3/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week3/RegisterServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/YuanXin/week5/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/YuanXin/week5/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week3/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week3/RegisterServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week5/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/textdemo-1.0-SNAPSHOT/WEB-INF/classes/com/YuanXin/week5/LoginServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -829,7 +797,7 @@
       <workItem from="1651983598208" duration="1884000" />
       <workItem from="1652666945251" duration="39000" />
       <workItem from="1653264449635" duration="2373000" />
-      <workItem from="1653266862820" duration="2593000" />
+      <workItem from="1653266862820" duration="3298000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 commit">
       <created>1646631313487</created>
@@ -1013,7 +981,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651985146986</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="lab2">
+      <created>1653269740266</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1653269740266</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1081,7 +1056,8 @@
     <MESSAGE value="week 10 commit" />
     <MESSAGE value="week 8 commit" />
     <MESSAGE value="week 11 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 11 commit" />
+    <MESSAGE value="lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
