@@ -1,69 +1,91 @@
 package com.YuanXin.model;
 
-import java.util.Date;
+import java.sql.Date;
+
 public class User {
+    //one row in usertable == one object of User
     private int id;
-    private String name;
+    private String username;
     private String password;
     private String email;
     private String gender;
-    private Date birthdate;
+    private String birthDate;
+    //constructor
 
-    public User(){
-
+    public User() {
     }
+    //full
 
-    public User(int id, String name, String password, String email, String gender, Date birthdate) {
-        super();
+    public User(int id, String username, String password, String email, String gender, String birthDate) {
         this.id = id;
-        this.name = name;
+        this.username = username;
         this.password = password;
         this.email = email;
         this.gender = gender;
-        this.birthdate = birthdate;
+        this.birthDate = birthDate;
     }
 
-    public int getID() {
+    //getter and setter
+
+    public int getId() {
         return id;
     }
-    public void setID(int id) {
+
+    public void setId(int id) {
         this.id = id;
     }
+
     public String getUsername() {
-        return name;
+        return username;
     }
-    public void setUsername(String name) {
-        this.name = name;
+
+    public void setUsername(String username) {
+        this.username = username;
     }
+
     public String getPassword() {
         return password;
     }
+
     public void setPassword(String password) {
         this.password = password;
     }
+
     public String getEmail() {
         return email;
     }
+
     public void setEmail(String email) {
         this.email = email;
     }
+
     public String getGender() {
         return gender;
     }
+
     public void setGender(String gender) {
         this.gender = gender;
     }
-    public Date getBirthdate() {
-        return birthdate;
+
+    public String getBirthDate() {
+        return birthDate;
     }
-    public void setBirthdate(Date birthdate) {
-        this.birthdate = birthdate;
+
+    public void setBirthDate(String birthDate) {
+        this.birthDate = birthDate;
     }
+
+    //toString
 
     @Override
     public String toString() {
-        return "User [id=" + id + ", name=" + name + ", password=" + password + ", email=" + email + ", gender="
-                + gender + ", birthdate=" + birthdate + "]";
+        return "user{" +
+                "id=" + id +
+                ", username='" + username + '\'' +
+                ", password='" + password + '\'' +
+                ", email='" + email + '\'' +
+                ", gender='" + gender + '\'' +
+                ", birthDate=" + birthDate +
+                '}';
     }
-
 }
