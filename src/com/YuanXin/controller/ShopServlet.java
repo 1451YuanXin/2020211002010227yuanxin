@@ -3,9 +3,7 @@ package com.YuanXin.controller;
 import com.YuanXin.dao.ProductDao;
 import com.YuanXin.model.Category;
 import com.YuanXin.model.Product;
-
 import javax.servlet.ServletException;
-import javax.servlet.annotation.WebListener;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
