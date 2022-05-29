@@ -9,16 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ebfb575-e570-490a-9fec-c1559c0028d9" name="变更" comment="lab2">
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/controller/GetImgServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/controller/ProductDetailsServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/controller/ShopServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/cart/empty_cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/cart/no_order.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/YuanXin/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/YuanXin/dao/ProductDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/productDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/productDetails.jsp" afterDir="false" />
+    <list default="true" id="9ebfb575-e570-490a-9fec-c1559c0028d9" name="变更" comment="week 12 commit">
+      <change afterPath="$PROJECT_DIR$/src/com/YuanXin/controller/UserListServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +38,12 @@
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/src/com/YuanXin/week2" value="master" />
@@ -90,7 +88,6 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindow问题.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
@@ -809,7 +806,7 @@
       <workItem from="1652666945251" duration="39000" />
       <workItem from="1653264449635" duration="2373000" />
       <workItem from="1653266862820" duration="4865000" />
-      <workItem from="1653837817117" duration="1213000" />
+      <workItem from="1653837817117" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 commit">
       <created>1646631313487</created>
@@ -1007,7 +1004,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653270453418</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="week 12 commit">
+      <created>1653839143183</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1653839143183</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1076,7 +1080,8 @@
     <MESSAGE value="week 8 commit" />
     <MESSAGE value="week 11 commit" />
     <MESSAGE value="lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
+    <MESSAGE value="week 12 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 12 commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
